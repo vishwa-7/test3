@@ -1,0 +1,38 @@
+body{
+  background-color: lightcyan;
+}
+#navbar{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+  margin-bottom: 55px;
+}
+.navbar-brand{
+  font-size: 55px;
+  border-radius: 0;
+  font-weight: bold;
+  font-style: italic;
+  color: blueviolet;
+}
+.col-md-12{
+  text-align: center;
+}
+#one, #two, #three{
+  font-size: 32px;
+  color: maroon;
+}
+p{
+  color: darkmagenta;
+  font-size:20px;
+}
+.nav-link{
+  font-size: 20px;
+  color: #003322;
+}
+.navbar-header, button.navbar-toggle, .navbar-header, .icon-bar{
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle{
+  clear: both;
+}
